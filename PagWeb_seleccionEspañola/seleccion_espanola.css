@@ -1,0 +1,162 @@
+body{
+    background-image: url(fondo.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    height: 200px;
+    bottom: 10px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    background-color: red;
+    margin-top: 15px;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    background-color:red;
+    margin-right: 1500px;
+    margin-top: 110px;
+    padding: 12px;
+
+
+
+    /*MENÚ DESPLEGABLE*/
+}
+.menu-desplegable {
+    position: fixed;
+    top: 8px;
+    left: 8px;
+    z-index: 1000;
+}
+
+.menu-desplegable img {
+    width: 150px;
+    height: auto;
+    display: block;
+    cursor: pointer;
+}
+
+.menu-desplegable ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 16px;
+    background-color: red;
+    position: absolute;
+    top: 150px; /* espacio del desplegable bajo la imagen */
+    left: 0;
+    border-radius: 8px;
+    display: none;
+    flex-direction: column;
+    gap: 8px;
+    width: 120px;
+    z-index: 10;
+    text-align: center;
+}
+.menu-desplegable:hover ul {
+    display: flex; /* cuando pasa el raton se muestra*/
+}
+.menu-desplegable ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 6px 8px;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li a:hover{
+    background-color: rgb(26, 32, 121);
+    border-radius: 15px;
+}
+
+/* separador entre elementos del menú */
+.menu-desplegable ul li {
+    border-bottom: 1px solid rgb(255, 218, 9);
+    padding-bottom: 6px;
+}
+/* hacer que el enlace ocupe todo el área del li para mejor interacción */
+.menu-desplegable ul li a {
+    display: block;
+    padding: 8px 6px; /* ajusta si quieres más/menos espacio */
+}
+
+
+
+/*NOTICIAS SECCIÓN*/
+.tarjeta-noticia {
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-image: url(de_la_fuente.webp);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.contenido-noticia {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+}
+
+.contenido a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.contenido a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+/*NOTICIAS ESPAÑOLA*/
+.noticia1{
+    background-color: rgba(0, 0, 0, 0.6);
+    background-position: right;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    background-image: url(de_la_fuente.webp);
+    background-repeat: no-repeat;
+    background-size: 800px;
+}
+.noticia2{
+    background-color: rgba(0, 0, 0, 0.6);
+    background-position: right;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    background-image: url(de_la_fuente.webp);
+    background-repeat: no-repeat;
+    background-size: 800px;
+}
+.noticia1{
+    background-color: rgba(0, 0, 0, 0.6);
+    background-position: right;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    background-image: url(de_la_fuente.webp);
+    background-repeat: no-repeat;
+    background-size: 800px;
+}
+.prueba{
+    color: white;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    width: 1000px;
+}
