@@ -4,63 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a317f1eeff1520c",
+        "id": "2e077e346a6d334b",
         "type": "tabs",
         "children": [
           {
-            "id": "3e0c747f44d58eb5",
+            "id": "4fff076aae2e6f7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "d49f8177b5f753a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "Seguridad Informática/Tema 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Seguridad Informática/TEMA 3.md"
               },
-              "icon": "lucide-file",
-              "title": "Tema 2"
-            }
-          },
-          {
-            "id": "b64ed25dbc7df148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seguridad Informática/Tema 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tema 2"
-            }
-          },
-          {
-            "id": "2696d12ce1b0002c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seguridad Informática/Tema 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tema 2"
+              "icon": "blocks",
+              "title": "TEMA 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,19 +167,25 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b64ed25dbc7df148",
+  "active": "4fff076aae2e6f7c",
   "lastOpenFiles": [
-    "Seguridad Informática/Ejercicios SAI.md",
     "Seguridad Informática/Tema 2.md",
+    "Seguridad Informática/TEMA 3.md",
     "Seguridad Informática/Tipos de SAI.md",
+    "Seguridad Informática/Ejercicios SAI.md",
+    "Sin nombre/Sin título.md",
+    "Sin nombre",
+    "Seguridad Informática/Pasted image 20251021142544.png",
+    "Seguridad Informática/Pasted image 20251021141602.png",
+    "Imagenes/Pasted image 20251010092249.png",
+    "Imagenes/Pasted image 20251010092239.png",
+    "Imagenes/Pasted image 20251010092224.png",
+    "Pasted image 20251010102439.png.md",
     "Pasted image 20251010102837.png",
     "Pasted image 20251010102439.png",
     "Pasted image 20251010102026.png",
     "Pasted image 20251010101207.png",
     "Imagenes",
-    "Imagenes/Pasted image 20251010092249.png",
-    "Imagenes/Pasted image 20251010092239.png",
-    "Imagenes/Pasted image 20251010092224.png",
     "Seguridad Informática/Tema 2/Tipos de SAI.md",
     "Seguridad Informática/Tema 2",
     "Bienvenido.md",

@@ -9,7 +9,7 @@ autonomía sabiendo que el switch opera a 15W normalmente y el servidor a 60W
 ---
  - P= 250W + 20W = 270 ----- 270/0.7 = 386W
 UPS Series
-![[Pasted image 20251010102439.png]]
+![[Pasted image 20251021141602.png]]
 
 
 - T= 7 * (1* 12)  / 75= 1,12 * 0,80 * 60= 53,76
@@ -28,6 +28,17 @@ autonomía sabiendo que los switches operan a unos 15W y el servidor a 75W.
 
 ---
 - P= 5 * 20 +275= 375W/0.7 = 536W
-![[Pasted image 20251010102837.png]]
+![[Pasted image 20251021142544.png]]
 
 - 9 * 2 * 12 /150 * 0,8 * 60 =69 min
+
+---
+**3- Sobre SAI**
+
+Se desea comprar un SAI para conectar los siguientes aparatos eléctricos:
+
+● Un servidor cuya potencia máxima es 500W.
+
+● Un monitor de 50W.
+
+● Un switch de 35W.<
